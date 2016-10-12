@@ -1,10 +1,12 @@
 # Book contents
 
-**Title: _Python3 Object-oriented Programming 2nd Edition_**
+## Title
+**_Python3 Object-oriented Programming 2nd Edition_**
 
-**Author: _Dusty Phillips_**
+## Author
+**_Dusty Phillips_**
 
-Table of contents:
+## Table of contents:
 1. Object-oriented Design
 2. Objects in Python
 3. When Objects are Alike
